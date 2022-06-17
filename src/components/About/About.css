@@ -1,0 +1,11 @@
+.post__title {
+  color: #1d2227;
+  text-align: left;
+  font-weight: bold;
+  font-size: 30px;
+  margin-bottom: 0px;
+}
+.post__text {
+  color: #1d2227;
+  font-weight: 300;
+}

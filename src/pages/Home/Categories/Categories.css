@@ -1,0 +1,35 @@
+ion-card {
+  margin: 15px;
+}
+.card__title {
+  color: #fff;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  margin-top: 5px;
+}
+.card__link {
+  color: #fff;
+  text-decoration: none;
+}
+.card__img {
+  width: 100%;
+}
+ion-card-subtitle {
+  color: #fff;
+  font-weight: 300;
+  font-size: 11px;
+  text-transform: lowercase;
+}
+hr {
+  background: #393c42;
+  width: 95%;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+ion-button {
+  font-size: 13px;
+  width: 80%;
+  display: block;
+  margin: auto;
+}

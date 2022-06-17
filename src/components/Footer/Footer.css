@@ -1,0 +1,14 @@
+.footer__title{
+    color: #fff;
+    text-align: center;
+    font-weight: 300;
+}
+.footer__title a{
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.footer__title a:hover{
+    cursor: pointer;
+}

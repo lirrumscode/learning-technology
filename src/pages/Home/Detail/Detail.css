@@ -1,0 +1,12 @@
+.detail__title {
+  font-weight: bold;
+  font-size: 25px;
+  margin-bottom: 20px;
+  font-size: 26px;
+}
+.detail__img {
+  border-radius: 10px;
+  width: 100%;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
